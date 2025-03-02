@@ -4,4 +4,10 @@ Forage is an online platform that provides free virtual work experiences and off
 
 These are short, self-paced programs that cover various sectors including technology, security and finance.
 
-I will be mostly attempting the security section of job simulations.
+You can access the simulations here - https://www.theforage.com/
+
+## Job Simulations
+
+|No. |Simulation            |Github               |Medium                |
+|----|----------------------|---------------------|----------------------|
+|1.  |Mastercard             |<a href="https://google.com">Detection Lab</a>|<a href="https://google.com">Detection Lab</a>|
