@@ -27,4 +27,26 @@ Some of the changes you can make the email look genuine are:
 
 Let us make these changes and look at the results:
 
-<img src="Assets/FG-MC2.jpg">
+<img src="Assets/FC-MC2.jpg">
+
+Now that the changes have been made, we can run a phishing simulation campaign and analyze the results to see the failure rate of each department. With these results we can,
+* **Identify** which departments need more awareness and
+* **Design** and **implement** the appropriate training for those teams.
+
+First, let us take a look at the results of the phishing campaign.
+
+<img src="Assets/FG-MC3.png">
+
+With this table, we can identify which teams are more likely to fall for a phishing email:
+* **Email open rate**: The percentage of people of who opened the phishing email
+* **Email click-through rate**: The percentage of people who clicked on the link.
+* **Phishing success rate**: The percentage of people who clicked on the link and inputted some information.
+
+Now that we have analyzed the results, it's time to create a presentation to provide awareness and training to the teams which are the most susceptible.
+
+<img src="Assets/FG-MC4.png">
+<img src="Assets/FG-MC5.png">
+<img src="Assets/FG-MC6.png">
+<img src="Assets/FG-MC7.png">
+
+With this simulation we have learnt how to identify phishing emails and run a phishing simulation campaign. We have also learnt how to interpret results and develop a training plan.
