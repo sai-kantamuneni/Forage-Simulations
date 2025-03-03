@@ -16,3 +16,15 @@ Let us look at an example of a phishing email:
 At a first glance, you can see some issues which make this email look fake.
 * The email address of the sender looks suspicious.
 * The sloppy layout and obvious grammatical errors.
+
+Your first task is to make this email look more believable, as your Manager wants you to lead the next phishing simulation campaign.
+
+Some of the changes you can make the email look genuine are:
+* Make the sender's email address look legitimate.
+* Add context to the beginning of the message.
+* Use correct spelling and grammar.
+* Mask the hyperlink with text.
+
+Let us make these changes and look at the results:
+
+<img src="Assets/FG-MC2.jpg">
