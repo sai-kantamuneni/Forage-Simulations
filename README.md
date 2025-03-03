@@ -8,6 +8,6 @@ You can access the simulations here - https://www.theforage.com/
 
 ## Job Simulations
 
-|No. |Simulation            |Github               |Medium                |
-|----|----------------------|---------------------|----------------------|
-|1.  |Mastercard             |<a href="https://google.com">Detection Lab</a>|<a href="https://google.com">Detection Lab</a>|
+|No. |Simulation            |Medium                |
+|----|----------------------|----------------------|
+|1.  |<a href="https://github.com/sai-kantamuneni/Forage-Simulations/tree/main/Mastercard">Mastercard</a>           |<a href="https://medium.com/@sai.kantamuneni/0e9f0cc11d3c">Forage Simulation #1</a>|
